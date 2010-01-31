@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>require 'ruby-processing'
+
+class $1 &lt; Processing::App
+
+  def setup
+	$0
+  end
+  
+end
+
+$1.new :title =&gt; "$1", :width =&gt; $2, :height =&gt; $3</string>
+	<key>name</key>
+	<string>Base</string>
+	<key>tabTrigger</key>
+	<string>base</string>
+	<key>uuid</key>
+	<string>7086F2A7-F80F-4A7E-8FE8-575FCED47AC8</string>
+</dict>
+</plist>
