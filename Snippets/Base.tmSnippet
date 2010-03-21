@@ -7,10 +7,15 @@
 
 class $1 &lt; Processing::App
 
-  def setup
-	$0
-  end
+	def setup
+		$0
+	end
   
+
+	def draw
+		
+	end
+
 end
 
 $1.new :title =&gt; "$1", :width =&gt; $2, :height =&gt; $3</string>
