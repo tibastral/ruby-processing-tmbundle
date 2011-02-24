@@ -15,7 +15,7 @@
 	<key>output</key>
 	<string>showAsTooltip</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby.processing</string>
 	<key>uuid</key>
 	<string>B0FA0EBF-6017-4D89-8D2B-488821962084</string>
 </dict>
